@@ -1,7 +1,7 @@
 # Fundamentos de programacion (C y C++)
 Aca se encontrar ejercicios practicos sobre fundamentos de programacion hecho en C++.
 
-## Que aprendi
+## Que aprendi:
 - Condicionales
 - Loops
 - Arrays
