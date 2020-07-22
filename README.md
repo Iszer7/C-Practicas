@@ -5,11 +5,11 @@ Aca se encontrar ejercicios practicos sobre fundamentos de programacion hecho en
 - Condicionales
 - Loops
 - Arrays
-- Arrays dinamicos
+ - Arrays dinamicos
 - Metodos de ordenamiento
 - Lectura y escritura de archivos
 - Funciones
-- Funciones recursivas
+ - Funciones recursivas
 - Insertar, sacar elementos de una pila
 - Programacion orientada a objetos, constructores, destructores.
 - Herencias y jerarquias
