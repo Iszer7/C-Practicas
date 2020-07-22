@@ -1,15 +1,16 @@
-# Fundamentos de programacion (C y C++)
-Aca se encontrar ejercicios practicos sobre fundamentos de programacion hecho en C++.
+# Fundamentals of programming (C y C++)
+Here you can find exercises about fundamentals of programming written in C++.
 
-## Que aprendi:
-- Condicionales
+## What i learn:
+- Conditonals
 - Loops
 - Arrays
-  - Arrays dinamicos
-- Metodos de ordenamiento
-- Lectura y escritura de archivos
-- Funciones
-  - Funciones recursivas
-- Insertar, sacar elementos de una pila
-- Programacion orientada a objetos, constructores, destructores.
-- Herencias y jerarquias
+  - Dinamic Array
+- Sort Array
+- Lecture and writting to files
+- Functions
+  - Recursive Function
+- Add, remove elements from stack
+- Object Oriented Programming
+  - constructor and destructor
+- Inheritance and Hierarchy
