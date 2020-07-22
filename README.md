@@ -12,5 +12,5 @@ Here you can find exercises about fundamentals of programming written in C++.
   - Recursive Function
 - Add, remove elements from stack
 - Object Oriented Programming
-  - constructor and destructor
+  - Constructor and destructor
 - Inheritance and Hierarchy
