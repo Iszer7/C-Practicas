@@ -2,7 +2,7 @@
 Aca se encontrar ejercicios practicos sobre fundamentos de programacion hecho en C++.
 
 ## Que aprendi
-- Condiciones
+- Condicionales
 - Loops
 - Arrays
 - Arrays dinamicos
