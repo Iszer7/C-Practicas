@@ -1,4 +1,4 @@
-# Fundamentals of programming (C y C++)
+Fundamentals of programming (C y C++)
 Here you can find exercises about fundamentals of programming written in C++.
 
 ## What i learn:
