@@ -1,5 +1,5 @@
-# Fundamentals of programming (C y C++)
-Here you can find exercises about fundamentals of programming written in C++.
+# Foundation of programming (C y C++)
+Here you can find exercises about Foundation of programming written in C++.
 
 ## What i learn:
 - Conditonals
